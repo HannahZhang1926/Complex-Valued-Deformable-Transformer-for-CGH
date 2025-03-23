@@ -1,5 +1,5 @@
 # Complex-Valued Deformable Transformer for CGH
-Unfolding Framework with Complex-Valued Deformable Attention for High-Quality Computer-Generated Hologram Generation
+Unfolding Framework with Complex-Valued Deformable Attention for High-Quality Computer-Generated Hologram Generation (ICME 2025)
 
 # Dataset
 You may download the widely-used image super-resolution datasets(Flickr 2K, DIV2K, etc.) for network training.
