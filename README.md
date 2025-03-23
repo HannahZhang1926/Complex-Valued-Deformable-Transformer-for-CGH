@@ -1,4 +1,4 @@
-# Unfolding-CGH
+# Complex-Valued Deformable Transformer for CGH
 Unfolding Framework with Complex-Valued Deformable Attention for High-Quality Computer-Generated Hologram Generation
 
 # Dataset
