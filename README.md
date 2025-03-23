@@ -19,3 +19,4 @@ You may download the widely-used image super-resolution datasets(Flickr 2K, DIV2
 python train.py
 
 # Citation
+If our code or models help your work, please cite our paper.
