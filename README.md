@@ -22,6 +22,8 @@ python train.py
 
 # Citation
 If our code or models help your work, please cite our paper.
+
+```bibtex
 @inproceedings{zhang2025unfolding,
   title={Unfolding Framework with Complex-Valued Deformable Attention for High-Quality Computer-Generated Hologram Generation},
   author={Zhang, Haomiao and Li, Zhangyuan and Piao, Yanling and Li, Zhi and Wang, Xiaodong and Cao, Miao and Su, Xiongfei and Song, Qiang and Yuan, Xin},
